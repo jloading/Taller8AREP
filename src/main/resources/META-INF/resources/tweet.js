@@ -33,7 +33,7 @@ function postTweet(){
     .then(response => {
         if (response.ok) {
         console.log('User created successfully!');
-        window.location = "../home/home.html"
+        window.location = "../home.html"
         } else {
         console.error('Failed to create user!');
         }
