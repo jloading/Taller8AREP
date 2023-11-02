@@ -58,6 +58,22 @@ Posteriormente se accede a la dirección de la máquina
 
 <img width="1440" alt="Captura de pantalla 2023-11-02 a la(s) 12 31 40 a  m" src="https://github.com/jloading/Taller8AREP/assets/65261708/463853ba-f348-4d87-a1aa-9014b3c855fd">
 
+- **S3:**
+Se crea un bucket de S3 y se añaden los archivos deseados
+
+![img2](https://github.com/jloading/Taller8AREP/assets/64861204/4f04f41c-2a3b-4e7c-b1e6-5cc17ee48451)
+
+Luego se accede al recurso
+
+![img3](https://github.com/jloading/Taller8AREP/assets/64861204/9ca843b9-8d4b-410e-9afc-5116fc919d9a)
+
+y funciona correctamente
+
+![img4](https://github.com/jloading/Taller8AREP/assets/64861204/3adfc1c6-9c99-4aec-8b6e-bc1da407ad9e)
+
+![img1](https://github.com/jloading/Taller8AREP/assets/64861204/52cb09e1-62a3-4ad9-9896-18f34af50ff9)
+
+
 
 
 
